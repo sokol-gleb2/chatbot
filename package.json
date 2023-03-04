@@ -1,0 +1,22 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "Using OpenAI API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sokol-gleb2/chatbot.git"
+  },
+  "author": "sokol-gleb2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sokol-gleb2/chatbot/issues"
+  },
+  "homepage": "https://github.com/sokol-gleb2/chatbot#readme",
+  "dependencies": {
+    "openai": "^3.2.1"
+  }
+}
